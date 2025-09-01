@@ -34,5 +34,47 @@
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+	},
+		{
+		"name": "Minoa",
+		"leaderName": "Minos",
+		"adjective": ["minoan"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Zeus Birthplace",
+		"startIntroPart2": "Crete rule the seas!",
+		
+		"declaringWar": "We cannot tolerate you anymore!",
+		"attacked": "The war was hardened us, but it has broken us",
+		"defeated": "Our great civilization has been destroyed by barbarian invaders!",
+		"introduction": "Greetings foreigner, what brings you to Crete?",
+		
+		"neutralHello": "Hello",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "We do not fear war",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "Check out this",
+
+		"outerColor": [15,15,15],
+		"innerColor": [242,75,75],
+		"uniqueName": "Thalassocracy",
+		"uniques": ["[+20]% [Science] [in coastal cities]", "[+2 Science] from [Great Improvment] tiles [in all cities]",
+	    "[1] [Trireme] appears for free",
+		"[+2 Production, + Culture] from every [Lighthouse]",
+		"Starts with [Sailing]", "Starts with [1] [Trireme]", 
+		"[Gold] cost of purchasing [Melee Water] units [-20]%",
+		"[-25]% maintenance costs <for [Melee Water] units>",
+		"[-10]% construction time <for [Melee Water] units>",
+		"[+1 Production, +1 Food, +1 Happiness] from every [Cattle] resource tile"],
+		"cities": ["Knossos","Phaistos","Malia","Gournia","Zakros","Agia Triada","Amnisos","Nirou Khani","Palekastro",
+			"Akrotiri","]
 	}
 ]
