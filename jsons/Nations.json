@@ -69,11 +69,11 @@
 		"uniques": ["[+20]% [Science] [in coastal cities]", "[+2 Science] from [Great Improvment] tiles [in all cities]",
 	    "[1] [Trireme] appears for free",
 		"[+2 Production, + Culture] from every [Lighthouse]",
-		"Starts with [Sailing]", "Starts with [1] [Trireme]", 
-		"[Gold] cost of purchasing [Melee Water] units [-20]%",
-		"[-25]% maintenance costs <for [Melee Water] units>",
-		"[-10]% construction time <for [Melee Water] units>",
-		"[+1 Production, +1 Food, +1 Happiness] from every [Cattle] resource tile"],
+		"Starts with [Sailing]", 
+		"[Gold] cost of purchasing [Water] units [-20]%",
+		"[-25]% maintenance costs <for [Water] units>",
+		"[-10]% construction time <for [Water] units>",
+		"[+1 Production, +1 Food, +1 Happiness] from every [Cattle] tile"],
 		"cities": ["Knossos","Phaistos","Malia","Gournia","Zakros","Agia Triada","Amnisos","Nirou Khani","Palekastro",
 			"Akrotiri"]
 	}
