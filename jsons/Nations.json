@@ -67,13 +67,13 @@
 		"innerColor": [242,75,75],
 		"uniqueName": "Thalassocracy",
 		"uniques": ["[+20]% [Science] [in coastal cities]", "[+2 Science] from [Great Improvment] tiles [in all cities]",
-	    "Gain a [Trireme] for free in your first [2] [coastal cities] for free",
+	    "Gain a [Trireme] for free in your first [2] coastal cities <a [Trireme] appears for free>",
 		"[+2 Production, +1 Culture] from every [Lighthouse]",
 		"Starts with [Sailing]", 
 		"[Gold] cost of purchasing [Water] units [-20]%",
 		"[-25]% maintenance costs <for [Water] units>",
 		"[-10]% construction time <for [Water] units>",
-		"[+1 Production, +1 Food, +1 Happiness] from every [Cattle] tiles"],
+		"[+1 Production, +1 Food, +1 Happiness] from every [Cattle] tiles [in all cities]"],
 		"cities": ["Knossos","Phaistos","Malia","Gournia","Zakros","Agia Triada","Amnisos","Nirou Khani","Palekastro",
 			"Akrotiri"]
 	}
