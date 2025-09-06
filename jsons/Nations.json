@@ -67,7 +67,7 @@
 		"innerColor": [242,75,75],
 		"uniqueName": "Thalassocracy",
 		"uniques": ["[+20]% [Science] [in coastal cities]", "[+2 Science] from [Great Improvment] tiles [in all cities]",
-	    "Provides a [Trireme] in your first [2] cities] for free",
+	    "Free [Trireme] appears",
 		"[+2 Production, +1 Culture] from every [Lighthouse]",
 		"Starts with [Sailing]", 
 		"[Gold] cost of purchasing [Water] units [-20]%",
@@ -76,5 +76,46 @@
 		"[+1 Production], [+1 Food], [+1 Happiness] in [Cattle] tiles"],
 		"cities": ["Knossos","Phaistos","Malia","Gournia","Zakros","Agia Triada","Amnisos","Nirou Khani","Palekastro",
 			"Akrotiri"]
+	},
+		{
+		"name": "Athens",
+		"leaderName": "Pericles",
+		"adjective": ["Athenian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Blessed by Athena",
+		"startIntroPart2": "the cradle of democracy, head of the Delian League, and undisputed intellectual power of the Hellenic world.",
+		
+		"declaringWar": "You must be stopped for the good of the Hellenes!",
+		"attacked": "Foolish barbarian! Do you think this will go unpunished?",
+		"defeated": "Athens has fallen, the cultural beacon of the Hellenic world has been taken over by barbarism!",
+		"introduction": "Greetings foreigner, what brings you to our glorious city?",
+		
+		"neutralHello": "Hello",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "Come to give up your throne, Tyrant?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Peace was a wise decision",
+		"tradeRequest": "Check out this",
+
+		"outerColor": [250,250,254],
+		"innerColor": [40,183,245],
+		"uniqueName": "The century of Pericles",
+		"uniques": ["Free [Trireme] appears",
+		"empire enters in a [8]-turn golden age <upon found your first city>",
+		"Starts with [Sailing]",
+		"gain control over [3] in your first City",
+		"Cannot build [Settler] units", "Free [Worker] appears <upon conquering a city>",
+		"[-50]% City-State Influence degradation", "Can spend Gold to annex or pupoet a City-State that has been your ally for [15] turns <after adopting [Meritocracy]>",
+		"City-State Influence recovers at twice the normal rate"],
+		"cities": ["Athens","Miletos","Piraeus","Phocaea","Samos","Chalkis","Naxos","Ephesus","Chios","Delos","Thasos","Abydos","Smyrna","Olynthos","Patras","Lamia","Apolyton"]
 	}
 ]
+
